@@ -8,7 +8,7 @@ Exploring optimal solutions to real-world challenges.
 Projects:
 
 1 - ArxPractice, is a collection of problems that I have solved on various platforms like LeetCode, HackerRank, etc. The solution to each problem is coded in c# and Rust or go
-2 - ArxAlgorithm, is a collection of solution to existing algortithems.
+2 - ArxAlgorithm, is a collection of solutions to existing algortithems.
 
 
 
